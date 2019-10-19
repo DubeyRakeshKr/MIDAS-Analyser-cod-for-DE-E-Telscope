@@ -1,5 +1,5 @@
 # MIDAS-Analyser-code development for life time measurement of nuclei for-DE-E-Telscope, HPGE detector set up  @iThemba Lab, Cape Town
-# Structure present code  follows http://lmu.web.psi.ch/docu/manuals/bulk_manuals/software/midas195/html/analyzer_struct.html
+# Structure of present code  follows http://lmu.web.psi.ch/docu/manuals/bulk_manuals/software/midas195/html/analyzer_struct.html
 As
 
     The Midas Analyzer application is composed of a collection of files providing a framework in which the user can gain access to the online data during data acquisition or offline data through a replay of a stored data save-set.
